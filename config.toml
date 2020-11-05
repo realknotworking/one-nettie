@@ -1,2 +1,18 @@
+title = "My New Resume"
+baseURL = "http://localhost"
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+PygmentsStyle = "Nope"
+
+[params]
+firstName = "Jacob"
+lastName = "Bass"
+address = "1613 Namy St"
+phone = "555-1212"
+email = "nope@example.com"
+profileImage = "img/wewn0671.jpg"
+favicon = "img/82453136_10219291362588626_8921548102096125952_n.jpg"
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "xx-nota tracier"
